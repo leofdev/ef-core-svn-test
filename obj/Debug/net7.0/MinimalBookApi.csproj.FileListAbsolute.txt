@@ -1,0 +1,80 @@
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\appsettings.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.exe
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.deps.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.runtimeconfig.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.pdb
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.AssemblyReference.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.AssemblyInfoInputs.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.AssemblyInfo.cs
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.CoreCompileInputs.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.MinimalBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\scopedcss\bundle\MinimalBookApi.styles.css
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.CopyComplete
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\refint\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.pdb
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.genruntimeconfig.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\obj\Debug\net7.0\ref\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master\MinimalBookApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\appsettings.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.exe
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.deps.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.runtimeconfig.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MinimalBookApi.pdb
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.AssemblyReference.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.AssemblyInfoInputs.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.AssemblyInfo.cs
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.CoreCompileInputs.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.MinimalBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinimalBookApi.props
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\scopedcss\bundle\MinimalBookApi.styles.css
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.csproj.CopyComplete
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\refint\MinimalBookApi.dll
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.pdb
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\MinimalBookApi.genruntimeconfig.cache
+C:\Users\LeonardoFortesCoucei\source\repos\MinimalBookApi-master - Copy\MinimalBookApi\obj\Debug\net7.0\ref\MinimalBookApi.dll
